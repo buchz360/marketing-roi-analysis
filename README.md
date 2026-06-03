@@ -15,7 +15,6 @@ The analysis includes:
 * Interpretation of model results
 * Marketing ROI recommendations
 
----
 
 ## Dataset
 
@@ -28,7 +27,6 @@ The dataset contains four variables:
 | Social_Media | Social media advertising expenditure |
 | Sales        | Sales generated                      |
 
----
 
 ## Project Objectives
 
@@ -39,7 +37,6 @@ The dataset contains four variables:
 * Interpret regression outputs
 * Recommend the most effective marketing channel for budget allocation
 
----
 
 ## Technologies Used
 
@@ -50,7 +47,6 @@ The dataset contains four variables:
 * Statsmodels
 * Jupyter Notebook
 
----
 
 ## Installation
 
@@ -66,7 +62,6 @@ If Seaborn is available in your environment, you may also install:
 pip install seaborn
 ```
 
----
 
 ## Running the Project
 
@@ -96,7 +91,6 @@ regression_analysis.ipynb
 
 and run all cells.
 
----
 
 ## Regression Model
 
@@ -109,7 +103,6 @@ Where:
 * Sales is the dependent variable
 * TV advertising expenditure is the independent variable
 
----
 
 ## Key Findings
 
@@ -118,14 +111,12 @@ Where:
 * TV advertising was a statistically significant predictor of Sales.
 * Regression assumptions of linearity, homoscedasticity, and normality were satisfied.
 
----
 
 ## Recommendation
 
 Based on the analysis, TV advertising should receive the highest priority in future marketing budget allocations because it demonstrated the strongest relationship with Sales and the highest predictive power among all marketing channels.
 
----
 
 ## Author
 
-Tony
+Anthony Bioseh
